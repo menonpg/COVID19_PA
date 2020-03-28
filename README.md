@@ -1,5 +1,5 @@
 # COVID19_PA
-Datasets on time-series evolution of COVID19 cases and deaths in PA, by county.  
+Datasets on time-series evolution of COVID19 cases and deaths in Pennsylvania (PA), by county.  
 
 
 Also see: https://quantmd.shinyapps.io/visualizeCorona/ ; A COVID19 tracker app mashes datasets from a few different sources, allows interactive pairwise comparison of trends from different countries, etc..  
