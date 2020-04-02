@@ -8,3 +8,9 @@ However, if cases were to accumulate at the rate that it is across the US as a w
 3/30/2020 [Allegheny_3282020_SIRDmodel.PNG]: 
 My best model yet for Allegheny County - this factors in the following ODEs to solve for susceptible, infected, recovered and dead cases for COVID19, based on the 10 days of historical data available between 3/19 and 3/29 ... This model forecasts susceptible individual counts, recovered individual counts and deaths, assuming currently that the "current" recovery rate is 20% of the susceptible individual counts. If recovery rates baseline to higher than 20%, then the numbers can be more optimistic!  The latter is consistent with the median recovery rate from Johns Hopkin's data by country.  
 
+
+4/1/2020 [Allegheny_412020_SIRDmodel.jpg]
+This model utilized data from 3/19 to 4/1/2020. The plot depicts cases (infected, recovered and dead) predicted as a function of time. Allegheny county has had 2 deaths reported owing to COVID19 which have held steady for several days so the deaths curve isn’t quite right, but the rest looks to show that the peak might be here before Mid April and the nightmare of living in fear may go on well after May (and into the summer)...
+
+Projected # cases seem to curve off at 535 cases by April 13. Deaths reported still holding steady at 2!
+
