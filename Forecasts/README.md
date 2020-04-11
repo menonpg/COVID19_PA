@@ -14,3 +14,8 @@ This model utilized data from 3/19 to 4/1/2020. The plot depicts cases (infected
 
 Projected # cases seem to curve off at 535 cases by April 13. Deaths reported still holding steady at 2!
 
+4/11/2020 [Allegheny_4112020_SIRDmodel.jpg]
+Peak case load expected by 21 April, at ~900 confirmed cases.
+
+
+
