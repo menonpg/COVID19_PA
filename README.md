@@ -1,5 +1,6 @@
 # Modeling-ready COVID19 time-series for PA, by county 
 Datasets on time-series evolution of COVID19 cases and deaths in Pennsylvania (PA), by county.  
+** 6/9/2020: Data on Cases now come from https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-counties.csv whereas Deaths come from https://www.health.pa.gov/topics/disease/coronavirus/Pages/Death-Data.aspx since PA Department of Health stopped publishing a list of cases in the format scraped by the bots that curated this data.      
 
 # Download data into Python, as follows:
 - `import pandas as pd`
