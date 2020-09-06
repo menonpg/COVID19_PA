@@ -15,3 +15,6 @@ Email me at prahlad.menon@quant.md to be subscribed to my automated daily email 
 
 
 #covid19news #covid19us #coronavirus
+
+
+This repository is no longer being updated.
